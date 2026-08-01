@@ -10,26 +10,26 @@ Please reach out to me at robert@quantfin.net for any further questions. I will 
 
 | Paper | Author(s) | Description | Source | Date |
 | --- | --- | --- | --- | --- |
-| Review on The Integration of Multi-Factor Models and Artificial Intelligence for Quantitative Trading | Yang Zhang |  | [doi.org_10.54254_2755-2721_2026.gu34723](https://doi.org/10.54254/2755-2721/2026.gu34723) | 2026-06-23 |
-| EquiLab: Real-Time Paper Trading Platform for Financial Education and RiskFree Strategy Validation | Dr. B. Madhava Rao; Bojja Ramcharan Reddy; Kiran Kasula |  | [doi.org_10.64751_cmy1t324](https://doi.org/10.64751/cmy1t324) | 2026-06-23 |
-| Hybrid Deep Learning Architectures for Multi-Target Bitcoin Forecasting and Algorithmic Trading: A Comparative Study of Attention-Based Models with Mamdani Fuzzy Inference | Ali Nokar; Zahra Ebrahiminezhad; Ali Yeganeh |  | [doi.org_10.1080_08839514.2026.2684165](https://doi.org/10.1080/08839514.2026.2684165) | 2026-06-16 |
-| The Information Battle Between Algorithmic Trading and ESG Fund Investors | Haonan Lin; Yongliang Yang |  | [doi.org_10.1080_13504851.2026.2685222](https://doi.org/10.1080/13504851.2026.2685222) | 2026-06-11 |
-| GROWING TRENDS IN OPTIONS MARKETS IN INDIA – SPECIAL REFERENCE TO EQUITY DERIVATIVES LISTED IN NSE | Rashmi Patil; Binoy Mathew |  | [doi.org_10.25258_ijddt.16.51s.27](https://doi.org/10.25258/ijddt.16.51s.27) | 2026-06-03 |
-| Beyond Algorithmic Trust: Human-AI Interaction Competency Strengthens AI-driven Financial Decision-making and Financial Resilience | M Vijayananth; N Saravanabhavan |  | [pubmed-42305940](https://pubmed.ncbi.nlm.nih.gov/42305940) | 2026-06-01 |
-| Beyond Algorithmic Trust: Human–AI Interaction Competency Strengthens AI-driven Financial Decision-making and Financial Resilience | M. Vijayananth; N. Saravanabhavan |  | [doi.org_10.3389_frai.2026.1867266](https://doi.org/10.3389/frai.2026.1867266) | 2026-06-01 |
-| Financial Asset Price Prediction and Quantitative Trading Strategy Optimization Based on Deep Reinforcement Learning | Shuxin Li |  | [doi.org_10.1007_s10791-026-10174-1](https://doi.org/10.1007/s10791-026-10174-1) | 2026-05-29 |
-| Impact of Artificial Intelligence on The Indian Stock Market | Dr. Ritu Bharti; Tarun Bhatia |  | [doi.org_10.55041_ijsmt.v2i5.449](https://doi.org/10.55041/ijsmt.v2i5.449) | 2026-05-28 |
-| Insider and Stealth Trading with Dynamic Legal Risk | Bixing Qiao; Weixuan Xia |  | [arxiv-2605.27684](http://arxiv.org/abs/2605.27684) | 2026-05-26 |
-| MadEvolve: Evolutionary Optimization of Trading Systems with Large Language Models | Yurii Kvasiuk; Tianyi Li; Owen Colegrove; Moritz Münchmeyer |  | [arxiv-2605.23007](http://arxiv.org/abs/2605.23007) | 2026-05-21 |
-| AI-Powered Retail: Revolutionizing Share Market Operations for Efficiency and Customer Experience | Elavarasi Dr.T; I.S Anamika; K Charudharshni; T Indhu |  | [doi.org_10.59256_indjcst.20260502038](https://doi.org/10.59256/indjcst.20260502038) | 2026-05-19 |
-| Algorithmic Options Trading Bot Using Machine Learning | Abhinav Srivastava; Garima Srivastava; Lalita Kumari |  | [doi.org_10.30574_ijsra.2026.19.2.1055](https://doi.org/10.30574/ijsra.2026.19.2.1055) | 2026-05-16 |
-| A Risk-constrained SARSA–FIS Hybrid Decision Architecture with Adaptive Exploration Control | Joni Fat; Parwadi Moengin; Pudji Astuti; Sally Cahyati |  | [doi.org_10.11591_ijece.v16i3.pp1531-1542](https://doi.org/10.11591/ijece.v16i3.pp1531-1542) | 2026-05-16 |
-| The Drivers and Implications of Retail Margin Trading | JIANGZE BIAN et. al. |  | [doi.org_10.1111_jofi.70049](https://doi.org/10.1111/jofi.70049) | 2026-05-15 |
-| Empirical Market Microstructure Models: A Review of Trading Behavior, Liquidity, and Price Formation | Farzan A. Omar; Samson Kaplelach; Harrison Kiema |  | [doi.org_10.59413_eafj_v5.i2.5](https://doi.org/10.59413/eafj/v5.i2.5) | 2026-05-13 |
-| Impact of Technical Analysis Tools in Short-Term Trading Decisions in The Indian Stock Market | Maniyarasan.S Maniyarasan.S; Dr.Dinesh Babu Mahendiran Dr.Dinesh Babu Mahendiran |  | [doi.org_10.55041_ijcope.v2i5.376](https://doi.org/10.55041/ijcope.v2i5.376) | 2026-05-12 |
-| A Systematic Evaluation of LSTM, XGBOOST and Hybrid Models for Intraday Trading Using A Risk-focused Machine Learning Framework | LOKESH KUMAR SONI et. al. |  | [doi.org_10.1007_s44163-026-01318-9](https://doi.org/10.1007/s44163-026-01318-9) | 2026-05-11 |
-| A Survey on Regime-Aware Portfolio Analytics and ML-Based Strategy Evaluation for Indian Equity Markets | Chirag T; Beena K; Jayaditya Dev; Durgashree M; Aryaman Tiwari |  | [doi.org_10.55041_isjem07359](https://doi.org/10.55041/isjem07359) | 2026-05-11 |
-| Investor Behavior and Stock Price Volatility in The Nairobi Securities Exchange, Kenya | Lilly Lekalja; John Ndunda |  | [doi.org_10.61108_ijsshr.v4i2.274](https://doi.org/10.61108/ijsshr.v4i2.274) | 2026-05-09 |
+| The Attacks and Defenses Mechanisms of Algorithmic Trading Systems Driven By Deep Learning | Pengcong Wu |  | [doi.org_10.70267_icfmb.202619619627](https://doi.org/10.70267/icfmb.202619619627) | 2026-07-30 |
+| CoLAS: Multimodal Corroboration of Latent Asset Signals for Financial Trading | YANZHENG JIN et. al. |  | [arxiv-2607.28446](http://arxiv.org/abs/2607.28446) | 2026-07-30 |
+| Pengaruh Liquidity Shock, Market Risk, Dan Abnormal Trading Volume Terhadap Return Saham (Studi Pada Sektor Energi) | Sinthia Dewi; Ilzar Daud; Anggraini Syahputri; Giriati Giriati; Anwar Azazi |  | [doi.org_10.35870_jemsi.v12i4.6551](https://doi.org/10.35870/jemsi.v12i4.6551) | 2026-07-29 |
+| Price Action in Cryptocurrency Market: Range Strategy | Gülçin Adıyaman; Mustafa Ay |  | [doi.org_10.1108_jes-03-2026-0300](https://doi.org/10.1108/jes-03-2026-0300) | 2026-07-28 |
+| From Anticipated Regret to Experienced Regret: Evidence from A Stock Market Simulation | Alain Finet; Kevin Kristoforidis; Julie Laznicka |  | [doi.org_10.20525_ijrbs.v15i4.5098](https://doi.org/10.20525/ijrbs.v15i4.5098) | 2026-07-24 |
+| Information Flows and Systematic Risk | David Easley; David Michayluk; Maureen O’Hara; Vinay Patel; Tālis J Putniņš |  | [doi.org_10.1093_rof_rfag027](https://doi.org/10.1093/rof/rfag027) | 2026-07-24 |
+| Conditional Effectiveness of Volatility-Adaptive Exit Rules in Algorithmic Trading Systems: Evidence from The USD/JPY Market | Byung-Kook Kang |  | [doi.org_10.3390_jrfm19080554](https://doi.org/10.3390/jrfm19080554) | 2026-07-24 |
+| Stock Price Trend Prediction and Securities Trading Optimization Based on CNN-GAA | Jia Wang; Lei Zhang |  | [doi.org_10.5755_j01.itc.55.2.43595](https://doi.org/10.5755/j01.itc.55.2.43595) | 2026-07-23 |
+| Trading Gains: Statistical Artifact or Economic Reality? | Ulrich Kohli |  | [doi.org_10.1111_roiw.70087](https://doi.org/10.1111/roiw.70087) | 2026-07-21 |
+| BitMood: AI Analysis of Bitcoin Trends Via Facebook Emotions | ALEXANDRA IOANA CONDA et. al. |  | [doi.org_10.1007_s42521-026-00205-3](https://doi.org/10.1007/s42521-026-00205-3) | 2026-07-19 |
+| Financial Sentiment Analysis Meets Algorithmic Trading: A Performance-based Approach | Alberto Burchi; Leonardo Regni |  | [doi.org_10.1080_23322039.2026.2703376](https://doi.org/10.1080/23322039.2026.2703376) | 2026-07-16 |
+| Market Trading Method for Hydrogen Production and Refueling Integrated Station Operator Under Hydrogen Sharing Mechanism | XIAOYAN ZHAO et. al. |  | [pubmed-42448746](https://pubmed.ncbi.nlm.nih.gov/42448746) | 2026-07-14 |
+| The Quarter-Hour Effect: Periodic Algorithmic Trading and Return Predictability in Cryptocurrency Futures | Chan Kim; Peter Reinhard Hansen |  | [arxiv-2607.09426](http://arxiv.org/abs/2607.09426) | 2026-07-10 |
+| A Truckload of Satoshis: Detecting and Measuring One-Way Arbitrage in The Wild | EUGENIO NERIO NEMMI et. al. |  | [arxiv-2607.09491](http://arxiv.org/abs/2607.09491) | 2026-07-10 |
+| Algorithmic Trading and Forced CEO Turnover: A Learning Hypothesis | Jaewoo Kim; Jun Oh; Hojun Seo; Luo Zuo |  | [doi.org_10.1007_s11142-026-09980-1](https://doi.org/10.1007/s11142-026-09980-1) | 2026-07-07 |
+| Optimal Rebalancing with Uncorrelated Asset Selection for Algorithmic Trading | Abraham Itzhak Weinberg |  | [doi.org_10.1007_s10287-026-00575-4](https://doi.org/10.1007/s10287-026-00575-4) | 2026-07-06 |
+| From Media Exposure to Trading Behavior: Evidence from Social Media, Traditional Media and Investor Knowledge | Xiaoyuan Sun; Swarn Chatterjee |  | [doi.org_10.1108_ijbm-01-2026-0001](https://doi.org/10.1108/ijbm-01-2026-0001) | 2026-07-03 |
+| Trading Confidence: Comprehensive Uncertainty Estimation in Algorithmic Trading | Lin Li; Li Rong Wang; Hsuan Fu; Xiuyi Fan |  | [arxiv-2607.02864](http://arxiv.org/abs/2607.02864) | 2026-07-02 |
+| Too Much of A Good Thing: Algorithmic Trading, Price Discovery, and The Efficiency Threshold in Emerging Equity Markets | Giridhar Reddy Bojja; Loknath Sai Ambati; Venkata Vinay Anga; Harsha Sammangi; Ahmed M. Abdelmoniem |  | [doi.org_10.1016_j.frl.2026.110424](https://doi.org/10.1016/j.frl.2026.110424) | 2026-07-01 |
+| When Agents Trade: Live Multi-Market Trading Arena for LLM Agents | LINGFEI QIAN et. al. |  | [www-10.1145_3774904.3792821-2026-06-29](https://doi.org/10.1145/3774904.3792821) | 2026-06-29 |
 
 ## Star History
 
